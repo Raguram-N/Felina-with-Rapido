@@ -43,6 +43,8 @@ Bangalore, Karnataka 560103.
 
 - **Business proposal form** - https://in.bookmyshow.com/contactus
 
+- **The CEO and Founder** - Ashish Hemrajani
+
 - **Business & PR Contacts (from public releases)**
      1. Supraja Srinivasan - 
 Email: supraja.srinivasan@bookmyshow.com, 
