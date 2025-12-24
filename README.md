@@ -120,13 +120,18 @@ Phone: +91-70284 61488
 
 ## 🛒 Blinkit 
 
-- **Co-founder and CEO (Overall strategy)** - Albinder Dhindsa.
-- **For retail and product procurement** - Mohd Zameer (Purchase Manager).
-- **For service-related improvements** - Dhananjay Shashidharan (Head of Customer Delight).
-- **Growth/Expansion Directors** -  Megha Todi.
-- **City Expansion & Growth Head for regional partnerships** - Mohit Bagaria.
+-  **Co-founder & CEO** - Albinder Dhindsa, 
+Email: albinder@blinkit.com / 
+Secondary: albinder@gmail.com
 
-> **Email format** (firstname.lastname@blinkit.com) or (firstinitiallastname@blinkit.com)  - *Just a try*
+- **Chief Technology Officer** - Sajal Gupta, 
+Email: sajal.gupta@blinkit.com
+
+- **Senior Leadership/Business** - Vishal Gupta, 
+Email: vishal.gupta@blinkit.com 
+
+- **Leadership Team** - Mohit Sardana, 
+Email: mohit.sardana@blinkit.com
 
 ---
 
@@ -146,5 +151,21 @@ Phone: +91-70284 61488
 - **CEO** - Prakash Sangam 
 - **CTO** - Anoop Menon 
 - **VP** (Product & Business) - Venkatesh Iyer 
+
+---
+
+## ✈️ Goibibo
+
+- **Chief Product Officer** (Strategic Initiatives & New Business) - Ankit Khanna (ankitkhanna@makemytrip.com) / (kh.ankit@gmail.com)
+- **Chief Business Officer** - Parikshit Choudhry
+
+---
+
+## 📅 Make my trip
+
+- Rajesh Magow (Co-Founder & Group CEO, MakeMyTrip Limited) - Email: rajesh.magow@makemytrip.com
+
+- Mohit Kabra - Operational strategy and business scalability (elevated to COO in September 2025).
+Email: mohit.kabra@makemytrip.com
 
 
