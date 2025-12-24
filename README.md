@@ -1,9 +1,11 @@
 # 🚕 Felina × Rapido  
 ## Voice-First Elder Mobility Partnership — Pitch Summary
 
-### ✨ One-line Summary
+### 🤖 One-line Summary
 Felina enables senior citizens (60+) to book Rapido rides through simple voice calls — 
 unlocking a large, currently unreachable customer segment without requiring app usage or UI changes.
+
+> **✨ Elders never interact with apps — Felina does on behalf of them.**
 
 ---
 
@@ -34,7 +36,7 @@ Felina acts as a consent-first voice interface between elders and Rapido.
 4. Confirmation via voice + optional family notification  
 5. SOS escalation if required  
 
-✨ *Elder never touches an app. Rapido gains a new rider.*
+> ✨ *Elder never touches an app. Rapido gains a new rider.*
 
 ---
 
@@ -60,3 +62,27 @@ Felina acts as a consent-first voice interface between elders and Rapido.
 
 **Felina does not compete with Rapido.**  
 Felina brings Rapido to people who were never able to use it.
+
+---
+
+## 🌐 Contact
+
+- **General mail id** - partnerships@rapido.bike or business@rapido.bike
+
+- **Co-Founder** 
+   1. Aravind Sanka  (aravind@rapido.bike)
+   2. Rishikesh SR (rishi@rapido.bike)
+   3. Pavan Guntupalli (pavan@rapido.bike)
+
+- **Other mail id**
+   1. shoutout@rapido.bike
+
+- **Standard Email Format:** 
+    Most corporate emails at Rapido follow the firstname.lastname@rapido.bike pattern.
+
+- **Rapido Corporate Office** - 
+Mantri Commercio - Spatium Tower A,
+Devarabeesanahalli Village, Bellandur,
+Bangalore, Karnataka 560103.
+
+
