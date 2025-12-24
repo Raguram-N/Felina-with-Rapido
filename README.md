@@ -168,4 +168,22 @@ Email: mohit.sardana@blinkit.com
 - Mohit Kabra - Operational strategy and business scalability (elevated to COO in September 2025).
 Email: mohit.kabra@makemytrip.com
 
+---
+
+## 🏛️ Goverment initiatives
+
+- **Seniorcare Ageing Growth Engine (SAGE)**: 
+SAGE is a flagship initiative under the Atal Vayo Abhyuday Yojana (AVVAY) by the Ministry of Social Justice & Empowerment, Government of India, focused on enabling active, dignified, and independent ageing.
+
+
+### 💰 Funding Support
+- Equity investment of up to ₹1 crore per startup
+
+### ✅ Eligibility Snapshot
+- India-registered startup (≤ 10 years old)
+- Annual turnover ≤ ₹25 crore
+- Focused on senior citizen welfare
+
+> **link to register : https://scw.dosje.gov.in/seniorcare-ageing-growth-engine**
+
 
