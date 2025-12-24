@@ -66,7 +66,8 @@ Felina acts as a consent-first voice interface between elders and the app.
 Felina brings Mobile app to people who were never able to use it.
 
 ---
-## 🌐 Contact
+
+# 🌐 Contact
 
 ## 🚕 Rapido 
 - **General mail id** - partnerships@rapido.bike or business@rapido.bike
