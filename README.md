@@ -1,5 +1,5 @@
 # 🤖 Felina - collab with
-###  🚕 Rapido, 🚌 Redbus, 🍿 Book my show, 🧰 Urban company, 🛒 Blinkit, 🍽️ Zomato
+###  🛺 Rapido, 🚌 Redbus, 🍿 Book my show, 🧰 Urban company, 🛒 Blinkit, 🍽️ Zomato
 
 ---
 
@@ -18,7 +18,7 @@ Felina brings Mobile app to people who were never able to use it.
 
 # 🌐 Contact
 
-## 🚕 Rapido 
+## 🛺 Rapido 
 - **General mail id** - partnerships@rapido.bike or business@rapido.bike
 
 - **Co-Founder** 
