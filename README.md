@@ -1,6 +1,7 @@
-# 🤖 Felina collab with
-## Rapido, Redbus, Book my show, Urban company, Blinkit, Zomato
-### Voice-First Elder Mobility Partnership — Pitch Summary
+# 🤖 Felina - collab with
+###  🚕 Rapido, 🚌 Redbus, 🍿 Book my show, 🧰 Urban company, 🛒 Blinkit, 🍽️ Zomato
+
+---
 
 ### 🤝 One-line Summary
 Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets, Order food & Groceries through simple voice calls — 
@@ -33,7 +34,7 @@ Felina acts as a consent-first voice interface between elders and the app.
 **How it works:**
 1. Elder places a phone call to Felina  
 2. Felina confirms intent + consent  
-3. Felina books a Rapido ride, Movie ticket, train ticket etc
+3. Felina books a Rapido ride, Movie ticket, train ticket, order food, order Groceries etc
 4. Confirmation via voice + optional family notification  
 5. SOS escalation if required  
 
@@ -88,14 +89,6 @@ Bangalore, Karnataka 560103.
 
 ---
 
-## 🚌 Redbus
-
-- **CEO** - Prakash Sangam 
-- **CTO** - Anoop Menon 
-- **VP** (Product & Business) - Venkatesh Iyer 
-
----
-
 ## 🍿 Book my Show
 
 - **Business proposal form** - https://in.bookmyshow.com/contactus
@@ -145,5 +138,13 @@ Phone: +91-70284 61488
 
 - General Business	info@zomato.com - For general corporate inquiries and collab proposals.
 - Corporate Office	+91-8039654500	- Main corporate phone line for formal inquiries.
+
+---
+
+## 🚌 Redbus
+
+- **CEO** - Prakash Sangam 
+- **CTO** - Anoop Menon 
+- **VP** (Product & Business) - Venkatesh Iyer 
 
 
