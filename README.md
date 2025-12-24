@@ -42,31 +42,6 @@ Felina acts as a consent-first voice interface between elders and the app.
 
 ---
 
-## 🤝 Why This Is Valuable
-
-- 📈 **Incremental revenue** from a new elder segment  
-- 💰 **Zero UI or driver app changes**  
-- 🛡️ **Safety-first, consent-driven design**  
-- 🌱 **Strong CSR & ESG alignment**  
-
----
-
-## 🚀 Pilot Proposal (Low Risk)
-
-- **Cities:** Chennai / Bengaluru  
-- **Duration:** 60–90 days  
-- **Target:** 5,000–10,000 elders  
-- **Metrics:** ride completion, repeat usage, safety, family trust  
-
----
-
-## ⭐ Closing Thought
-
-**Felina does not compete with the app**  
-Felina brings Mobile app to people who were never able to use it.
-
----
-
 # 🌐 Contact
 
 ## 🚕 Rapido 
@@ -186,5 +161,13 @@ SAGE is a flagship initiative under the Atal Vayo Abhyuday Yojana (AVVAY) by the
 - Focused on senior citizen welfare
 
 > **link to register : https://scw.dosje.gov.in/seniorcare-ageing-growth-engine**
+
+---
+
+## ⭐ Closing Thought
+
+**Felina does not compete with the app**  
+Felina brings Mobile app to people who were never able to use it.
+
 
 
