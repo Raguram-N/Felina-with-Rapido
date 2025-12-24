@@ -135,14 +135,15 @@ Phone: +91-70284 61488
 
 > **Email format** (firstname.lastname@blinkit.com) or (firstinitiallastname@blinkit.com)  - *Just a try*
 
-- **Operational address:** <br> Ground Floor, Pioneer Square, Sector 62, Golf Course Extension Road, Gurugram-122098, Haryana, India
-
 ---
 
 ## 🍽️ Zomato
 
-- **CEO & Founder (Strategy/Vision)** -  Deepinder Goyal.
-- **CEO, Food Delivery (Operational partnerships)** - Rakesh Ranjan.
-- **CFO (Investment or financial collaborations).** - Akshant Goyal.
+- **CEO & Founder (Strategy/Vision)** -  Deepinder Goyal, deepinder.goyal@zomato.com / deepinder@zomato.com
+- **CEO, Food Delivery (Operational partnerships)** - Aditya Mangla, aditya.mangla@zomato.com
+- **CFO (Investment or financial collaborations).** - Akshant Goyal, akshant.goyal@zomato.com / cfo@zomato.com
+
+- General Business	info@zomato.com - For general corporate inquiries and collab proposals.
+- Corporate Office	+91-8039654500	- Main corporate phone line for formal inquiries.
 
 
