@@ -4,7 +4,7 @@
 ---
 
 ### 🤝 One-line Summary
-Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets, Order food & Groceries through simple voice calls — 
+Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets, Order food & Groceries **through simple voice calls** — 
 unlocking a large, currently unreachable customer segment without requiring app usage or UI changes.
 
 ### ⭐ Vision
