@@ -16,7 +16,7 @@ Felina brings Mobile app to people who were never able to use it.
 
 ---
 
-# 🌐 Contact
+# 🌐 Partnership & Outreach Contacts
 
 ## 🛺 Rapido 
 - **General mail id** - partnerships@rapido.bike or business@rapido.bike
