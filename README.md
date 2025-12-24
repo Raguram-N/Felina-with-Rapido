@@ -7,38 +7,12 @@
 Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets, Order food & Groceries through simple voice calls — 
 unlocking a large, currently unreachable customer segment without requiring app usage or UI changes.
 
-> **✨ Elders never interact with apps — Felina does on behalf of them.**
+### ⭐ Vision
+Felina does not compete with the app, 
+Felina brings Mobile app to people who were never able to use it.
 
----
-
-## 🎯 The Problem 
-
-India has 140M+ elders, many of whom:
-- Do not use smartphones confidently
-- Struggle with apps, OTPs, and touch interfaces
-- Depend on family or neighbors for short-distance travel
-
-**Result today:**
-- Elders avoid mobility unless assisted  
-- Rapido loses a high-frequency, low-competition user group  
-- Families shoulder unnecessary dependency burden  
-
-> Digital adoption ≠ Digital accessibility.
-
----
-
-## 💡 The Solution — Felina as a Voice Layer
-
-Felina acts as a consent-first voice interface between elders and the app.
-
-**How it works:**
-1. Elder places a phone call to Felina  
-2. Felina confirms intent + consent  
-3. Felina books a Rapido ride, Movie ticket, train ticket, order food, order Groceries etc
-4. Confirmation via voice + optional family notification  
-5. SOS escalation if required  
-
-> ✨ **Elder never touches an app. App gains a new rider.**
+>**✨ Elders speak. Felina acts**<br>
+>**✨ No apps. No screens. Just a phone call — Felina does the rest.** 
 
 ---
 
@@ -161,13 +135,3 @@ SAGE is a flagship initiative under the Atal Vayo Abhyuday Yojana (AVVAY) by the
 - Focused on senior citizen welfare
 
 > **link to register : https://scw.dosje.gov.in/seniorcare-ageing-growth-engine**
-
----
-
-## ⭐ Closing Thought
-
-**Felina does not compete with the app**  
-Felina brings Mobile app to people who were never able to use it.
-
-
-
