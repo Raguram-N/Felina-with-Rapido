@@ -12,7 +12,7 @@ Felina does not compete with the app,
 Felina brings Mobile app to people who were never able to use it.
 
 >**✨ Elders speak. Felina acts**<br>
->**✨ No apps. No screens. Just a phone call — Felina does the rest.** 
+>**✨ No apps. No screens. Just a phone call — Felina handles the rest.** 
 
 ---
 
