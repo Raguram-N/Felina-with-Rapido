@@ -124,9 +124,11 @@ Email: mohit.kabra@makemytrip.com
 
 ## 🏛️ Goverment initiatives
 
-- **Seniorcare Ageing Growth Engine (SAGE)**: 
+**⚙️ SAGE (Seniorcare Ageing Growth Engine)**: 
 SAGE is a flagship initiative under the Atal Vayo Abhyuday Yojana (AVVAY) by the Ministry of Social Justice & Empowerment, Government of India, focused on enabling active, dignified, and independent ageing.
 
+### ⭐ Vision
+- The objective of SAGE is to identify, promote, and support innovative start-ups and start-up ideas that cater to the welfare and well-being of senior citizens.
 
 ### 💰 Funding Support
 - Equity investment of up to ₹1 crore per startup
