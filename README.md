@@ -1,15 +1,16 @@
-# 🚕 Felina × Rapido  
-## Voice-First Elder Mobility Partnership — Pitch Summary
+# 🤖 Felina collab with
+## Rapido, Redbus, Book my show, 
+### Voice-First Elder Mobility Partnership — Pitch Summary
 
-### 🤖 One-line Summary
-Felina enables senior citizens (60+) to book Rapido rides through simple voice calls — 
+### 🤝 One-line Summary
+Felina enables senior citizens (60+) to book Rapido rides, Movie tickets, Train tickets through simple voice calls — 
 unlocking a large, currently unreachable customer segment without requiring app usage or UI changes.
 
 > **✨ Elders never interact with apps — Felina does on behalf of them.**
 
 ---
 
-## 🎯 The Problem (Rapido Context)
+## 🎯 The Problem 
 
 India has 140M+ elders, many of whom:
 - Do not use smartphones confidently
@@ -27,20 +28,20 @@ India has 140M+ elders, many of whom:
 
 ## 💡 The Solution — Felina as a Voice Layer
 
-Felina acts as a consent-first voice interface between elders and Rapido.
+Felina acts as a consent-first voice interface between elders and the app.
 
 **How it works:**
 1. Elder places a phone call to Felina  
 2. Felina confirms intent + consent  
-3. Felina books a Rapido ride  
+3. Felina books a Rapido ride, Movie ticket, train ticket etc
 4. Confirmation via voice + optional family notification  
 5. SOS escalation if required  
 
-> ✨ *Elder never touches an app. Rapido gains a new rider.*
+> ✨ **Elder never touches an app. App gains a new rider.**
 
 ---
 
-## 🤝 Why This Is Valuable for Rapido
+## 🤝 Why This Is Valuable
 
 - 📈 **Incremental revenue** from a new elder segment  
 - 💰 **Zero UI or driver app changes**  
@@ -60,13 +61,13 @@ Felina acts as a consent-first voice interface between elders and Rapido.
 
 ## ⭐ Closing Thought
 
-**Felina does not compete with Rapido.**  
-Felina brings Rapido to people who were never able to use it.
+**Felina does not compete with the app**  
+Felina brings Mobile app to people who were never able to use it.
 
 ---
-
 ## 🌐 Contact
 
+## 🚕 Rapido 
 - **General mail id** - partnerships@rapido.bike or business@rapido.bike
 
 - **Co-Founder** 
@@ -85,4 +86,13 @@ Mantri Commercio - Spatium Tower A,
 Devarabeesanahalli Village, Bellandur,
 Bangalore, Karnataka 560103.
 
+---
+
+## 🚌 Redbus
+
+- **CEO** - Prakash Sangam 
+- **CTO** - Anoop Menon 
+- **VP** (Product & Business) - Venkatesh Iyer 
+
+---
 
